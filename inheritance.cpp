@@ -123,4 +123,6 @@ int main(){
 
    cout<< obj.gettype();
    cout<< obj.getpublic();
-}
+};
+
+//welcome to new topic inheritance overloading
